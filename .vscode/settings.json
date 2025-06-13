@@ -1,0 +1,7 @@
+{
+    "scm.alwaysShowActions": false,
+    "scm.alwaysShowRepositories": false,
+    "scm.defaultViewMode": "list",
+    "javascript.suggest.completeFunctionCalls": true,
+    "npm.enableRunFromFolder": true
+}
