@@ -1,5 +1,5 @@
 # Cypress, from zero to the Cloud
-
+> This project uses Cypress to perform end-to-end (E2E) testing on a front-end application. We implemented comprehensive test coverage across the entire application to ensure functionality and reliability.
 ## Pre-requirements
 
 It is required to have git, Node.js and npm installed to clone and run this project.
